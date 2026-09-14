@@ -1,2 +1,4 @@
 # musicbox
-musicbox progress
+Desktop spotify player
+
+More to come
