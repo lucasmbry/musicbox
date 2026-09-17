@@ -1,0 +1,84 @@
+{
+  "is_playing" : true,
+  "timestamp" : 1789648438107,
+  "context" : {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0aVN6rMKthfuAdDXn8RTXf"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0aVN6rMKthfuAdDXn8RTXf",
+    "type" : "album",
+    "uri" : "spotify:album:0aVN6rMKthfuAdDXn8RTXf"
+  },
+  "progress_ms" : 132392,
+  "item" : {
+    "album" : {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3SXwqSqAoBz9WCI9PDQzY6",
+        "id" : "3SXwqSqAoBz9WCI9PDQzY6",
+        "name" : "Fontaines D.C.",
+        "type" : "artist",
+        "uri" : "spotify:artist:3SXwqSqAoBz9WCI9PDQzY6"
+      } ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0aVN6rMKthfuAdDXn8RTXf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0aVN6rMKthfuAdDXn8RTXf",
+      "id" : "0aVN6rMKthfuAdDXn8RTXf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273b23737878e75582c2e255029",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02b23737878e75582c2e255029",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851b23737878e75582c2e255029",
+        "width" : 64
+      } ],
+      "name" : "Skinty Fia",
+      "release_date" : "2022-04-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:0aVN6rMKthfuAdDXn8RTXf"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3SXwqSqAoBz9WCI9PDQzY6",
+      "id" : "3SXwqSqAoBz9WCI9PDQzY6",
+      "name" : "Fontaines D.C.",
+      "type" : "artist",
+      "uri" : "spotify:artist:3SXwqSqAoBz9WCI9PDQzY6"
+    } ],
+    "disc_number" : 1,
+    "duration_ms" : 359066,
+    "explicit" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4SrJ7S8Zz9LShbeY7MXpZk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4SrJ7S8Zz9LShbeY7MXpZk",
+    "id" : "4SrJ7S8Zz9LShbeY7MXpZk",
+    "is_local" : false,
+    "name" : "In ár gCroíthe go deo",
+    "preview_url" : null,
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4SrJ7S8Zz9LShbeY7MXpZk"
+  },
+  "currently_playing_type" : "track",
+  "actions" : {
+    "disallows" : {
+      "resuming" : true,
+      "skipping_prev" : true
+    }
+  }
+}
+200
