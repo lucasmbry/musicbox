@@ -1,1 +1,7 @@
-secrets.h
+main/secrets.h/
+components/arduino/
+
+build/
+
+.vscode/
+sdkconfig.old
