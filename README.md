@@ -1,4 +1,23 @@
-# musicbox
-Desktop spotify player
+# MusicBox
 
-More to come
+A lightweight, MP3 player built for minimal resource usage and simple playback control on custom hardware
+
+---
+
+### Features
+
+* **Formats:** MP3, WAV, FLAC, OGG
+* **Lightweight:** Minimal memory and CPU footprint
+* **Playback Controls:** Play, pause, skip, seek, shuffle, and repeat
+* **Playlists:** M3U support, custom folder queueing
+
+Build in C++ for arduino
+
+---
+
+### Quick Start
+
+#### Prerequisites
+```bash
+# Ubuntu / Debian
+sudo apt-get install libasound2-dev libmp3lame-dev
