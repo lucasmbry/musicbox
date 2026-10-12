@@ -17,7 +17,6 @@ Build in C++ for arduino
 
 ### Quick Start
 
-#### Prerequisites
 ```bash
 # Ubuntu / Debian
 sudo apt-get install libasound2-dev libmp3lame-dev
